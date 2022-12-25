@@ -7,7 +7,7 @@ Seeing this in my ming i have used HTML, CSS and JavaScript to make an extension
 
 # How to load it on our Chrome Browser
 ```
-Download the folder provided above, then
+Download this zip-file then move the "mainCodes" named folder to your desktop.
 Open your chrome browser...
 Type "chrome://extensions"
 Turn on the "Developer mode" on the top right corner of the browser, then 
