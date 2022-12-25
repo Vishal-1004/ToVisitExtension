@@ -1,0 +1,81 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    list-style: none;
+    min-width: 400px;
+    background-color: white;
+}
+
+.box{
+    margin: 5px;
+}
+
+h3{
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+}
+
+input{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 4px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 1px solid black;
+    background-color: rgb(234, 233, 233);
+    font-family: 'Poppins', sans-serif;
+}
+
+button{ 
+    padding: 10px 25px;
+    background-color: rgb(53, 53, 53);
+    color: white;
+    border: 1px solid black;
+    font-weight: 300;
+    font-size: 15px;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#delete-btn{
+    background-color: white;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+ul{
+    padding: 0 30px;
+    border-radius: 5px;
+    list-style: none;
+}
+
+li{
+    padding: 10px 0;
+    border-bottom: 1px dotted black;
+    cursor: pointer;
+    transition: ease 0.4s;
+}
+
+a{
+    padding: 0 5px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+li:hover{
+    background-color: rgb(236, 235, 235);
+}
+
+#topLi-el{
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(200, 199, 199);
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+/* Created by :- Vishal Kumar Yadav */
